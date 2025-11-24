@@ -47,7 +47,8 @@ This data helps identify performance patterns and key contributors to successful
    - Applied consistent color theme and layout  
 
 ## Dashboard Preview
-
+![Preview](https://github.com/user-attachments/assets/efa7cdf5-a190-4bb4-8c95-cc82d74c7b3c)
 ## Author
 **Vinil V V**  
 Mini Project – 2025
+
