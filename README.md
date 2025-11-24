@@ -30,7 +30,7 @@ This data helps identify performance patterns and key contributors to successful
 5. **Higher budgets often lead to higher gross**, though exceptions exist with profitable low-budget films.  
 6. **Top directors** consistently maintain average ratings above 7.  
 7. **Top actors** mainly appear in Drama/Action films and often in above-average rated movies.  
-8. **Top films combine strong direction, popular genres and consistent cast performance.
+8. **Top films** combine strong direction, popular genres and consistent cast performance.
 
 ## Project Workflow
 1. **Data Cleaning (Excel)**  
