@@ -5,7 +5,7 @@ This project analyzes IMDb-style movie data to understand what factors contribut
 Using **Excel** for data cleaning and **Power BI** for dashboard creation, the project visualizes trends in genres, ratings, budgets, revenues, top directors and top actors.
 
 ## Tools & Technologies
-- **Microsoft Excel** – Data cleaning, preprocessing, and formatting  
+- **Microsoft Excel** – Data cleaning, preprocessing and formatting  
 - **Microsoft Power BI** – Interactive dashboard development and data visualization  
 
 ## Dataset Information
